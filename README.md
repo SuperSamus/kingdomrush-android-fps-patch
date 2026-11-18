@@ -16,6 +16,13 @@ The [docs](https://reseam.app/docs/authoring/start/) walk through this template 
 ## Patches
 
 <!-- patches:start -->
+
+### `com.ironhidegames.android.kingdomrush`, `com.ironhidegames.android.kingdomrushfrontiers`, `com.ironhidegames.android.kingdomrushorigins`
+
+| Patch | What it does |
+|---|---|
+| Kingdom Rush FPS Patch | Changes the target frame rate of Kingdom Rush from 30 FPS to the value you choose. |
+
 <!-- patches:end -->
 
 ## Setup
