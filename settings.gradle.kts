@@ -15,4 +15,4 @@ plugins {
     id("app.reseam.workspace") version "0.42.0"
 }
 
-rootProject.name = "example-patches"
+rootProject.name = "kingdomrush-fps-patch"

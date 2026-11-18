@@ -1,5 +1,5 @@
 [bundle]
-name = "example-patches"
-author = "Your Name"
-description = "Example patches for Reseam"
+name = "kingdomrush-fps-patch"
+author = "Martino Fontana"
+description = "Change the target frame rate of the Kingdom Rush games on Android"
 format_version = 1

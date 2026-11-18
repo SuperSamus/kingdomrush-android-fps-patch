@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fps_patch_name">Kingdom Rush FPS Patch</string>
+    <string name="fps_patch_description">Changes the target frame rate of Kingdom Rush from 30 FPS to the value you choose.</string>
+    <string name="fps_patch_target_title">Target FPS</string>
+    <string name="fps_patch_target_description">The frame rate that will be written into the game’s configuration.</string>
+</resources>
